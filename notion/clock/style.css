@@ -48,7 +48,7 @@ section, footer, header, aside{
 
 #clock{
 	width:370px;
-	padding:40px;
+	padding:0px;
 	margin:auto auto auto;
 	position:relative;
 }
