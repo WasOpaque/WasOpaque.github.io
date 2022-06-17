@@ -64,7 +64,7 @@ $(function(){
         // mm - minutes, ss-seconds (all with leading zeroes),
         // d is for day of week and A is for AM/PM
 
-        var now = moment().format("hhmmssdA");
+        var now = moment().format("HHmmssdA");
 
         digits.h1.attr('class', digit_to_name[now[0]]);
         digits.h2.attr('class', digit_to_name[now[1]]);
