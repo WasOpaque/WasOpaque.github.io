@@ -17,7 +17,7 @@
 
 
 html{
-	background:url('../img/bg.jpg') #dbe4e6;
+	background:url('../img/bg.jpg') rgba(0,0,0,0);
 	overflow:hidden;
 }
 
